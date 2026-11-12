@@ -1,0 +1,2465 @@
+{
+  "noise-180": {
+    "rollDegrees": 180,
+    "lag": 2,
+    "firstExactReturnIteration": 122,
+    "firstObservedCycleStart": 120,
+    "lastCheckedIteration": 160,
+    "seedGreen255Pixels": 39,
+    "greenPredictionMismatchesAcrossAllFrames": 0,
+    "lastChangeIterationAfterUndoingRotationRGB": [
+      94,
+      120,
+      62
+    ],
+    "rows": [
+      {
+        "iteration": 0,
+        "differentPixels": null,
+        "maxAbsChannelDifference": null
+      },
+      {
+        "iteration": 1,
+        "differentPixels": null,
+        "maxAbsChannelDifference": null
+      },
+      {
+        "iteration": 2,
+        "differentPixels": 6792,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 3,
+        "differentPixels": 6744,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 4,
+        "differentPixels": 6699,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 5,
+        "differentPixels": 6645,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 6,
+        "differentPixels": 6594,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 7,
+        "differentPixels": 6539,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 8,
+        "differentPixels": 6488,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 9,
+        "differentPixels": 6445,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 10,
+        "differentPixels": 6395,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 11,
+        "differentPixels": 6331,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 12,
+        "differentPixels": 6270,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 13,
+        "differentPixels": 6209,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 14,
+        "differentPixels": 6145,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 15,
+        "differentPixels": 6087,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 16,
+        "differentPixels": 6037,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 17,
+        "differentPixels": 5968,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 18,
+        "differentPixels": 5916,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 19,
+        "differentPixels": 5868,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 20,
+        "differentPixels": 5822,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 21,
+        "differentPixels": 5738,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 22,
+        "differentPixels": 5688,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 23,
+        "differentPixels": 5634,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 24,
+        "differentPixels": 5568,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 25,
+        "differentPixels": 5513,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 26,
+        "differentPixels": 5458,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 27,
+        "differentPixels": 5402,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 28,
+        "differentPixels": 5359,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 29,
+        "differentPixels": 5309,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 30,
+        "differentPixels": 5242,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 31,
+        "differentPixels": 5184,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 32,
+        "differentPixels": 5120,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 33,
+        "differentPixels": 5064,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 34,
+        "differentPixels": 5009,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 35,
+        "differentPixels": 4958,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 36,
+        "differentPixels": 4912,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 37,
+        "differentPixels": 4845,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 38,
+        "differentPixels": 4786,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 39,
+        "differentPixels": 4718,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 40,
+        "differentPixels": 4674,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 41,
+        "differentPixels": 4621,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 42,
+        "differentPixels": 4556,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 43,
+        "differentPixels": 4484,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 44,
+        "differentPixels": 4412,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 45,
+        "differentPixels": 4341,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 46,
+        "differentPixels": 4275,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 47,
+        "differentPixels": 4195,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 48,
+        "differentPixels": 4122,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 49,
+        "differentPixels": 4047,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 50,
+        "differentPixels": 3980,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 51,
+        "differentPixels": 3894,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 52,
+        "differentPixels": 3834,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 53,
+        "differentPixels": 3763,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 54,
+        "differentPixels": 3674,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 55,
+        "differentPixels": 3602,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 56,
+        "differentPixels": 3531,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 57,
+        "differentPixels": 3466,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 58,
+        "differentPixels": 3387,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 59,
+        "differentPixels": 3312,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 60,
+        "differentPixels": 3233,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 61,
+        "differentPixels": 3151,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 62,
+        "differentPixels": 3054,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 63,
+        "differentPixels": 2991,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 64,
+        "differentPixels": 2924,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 65,
+        "differentPixels": 2848,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 66,
+        "differentPixels": 2786,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 67,
+        "differentPixels": 2724,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 68,
+        "differentPixels": 2672,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 69,
+        "differentPixels": 2611,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 70,
+        "differentPixels": 2559,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 71,
+        "differentPixels": 2488,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 72,
+        "differentPixels": 2419,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 73,
+        "differentPixels": 2362,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 74,
+        "differentPixels": 2295,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 75,
+        "differentPixels": 2227,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 76,
+        "differentPixels": 2158,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 77,
+        "differentPixels": 2102,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 78,
+        "differentPixels": 2034,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 79,
+        "differentPixels": 1960,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 80,
+        "differentPixels": 1903,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 81,
+        "differentPixels": 1854,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 82,
+        "differentPixels": 1798,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 83,
+        "differentPixels": 1726,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 84,
+        "differentPixels": 1662,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 85,
+        "differentPixels": 1600,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 86,
+        "differentPixels": 1541,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 87,
+        "differentPixels": 1483,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 88,
+        "differentPixels": 1407,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 89,
+        "differentPixels": 1348,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 90,
+        "differentPixels": 1273,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 91,
+        "differentPixels": 1205,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 92,
+        "differentPixels": 1142,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 93,
+        "differentPixels": 1070,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 94,
+        "differentPixels": 1009,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 95,
+        "differentPixels": 972,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 96,
+        "differentPixels": 940,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 97,
+        "differentPixels": 902,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 98,
+        "differentPixels": 877,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 99,
+        "differentPixels": 840,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 100,
+        "differentPixels": 802,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 101,
+        "differentPixels": 761,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 102,
+        "differentPixels": 713,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 103,
+        "differentPixels": 678,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 104,
+        "differentPixels": 638,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 105,
+        "differentPixels": 609,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 106,
+        "differentPixels": 577,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 107,
+        "differentPixels": 538,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 108,
+        "differentPixels": 511,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 109,
+        "differentPixels": 471,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 110,
+        "differentPixels": 428,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 111,
+        "differentPixels": 397,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 112,
+        "differentPixels": 355,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 113,
+        "differentPixels": 317,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 114,
+        "differentPixels": 283,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 115,
+        "differentPixels": 250,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 116,
+        "differentPixels": 212,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 117,
+        "differentPixels": 176,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 118,
+        "differentPixels": 136,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 119,
+        "differentPixels": 106,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 120,
+        "differentPixels": 70,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 121,
+        "differentPixels": 39,
+        "maxAbsChannelDifference": 1
+      },
+      {
+        "iteration": 122,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 123,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 124,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 125,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 126,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 127,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 128,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 129,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 130,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 131,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 132,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 133,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 134,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 135,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 136,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 137,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 138,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 139,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 140,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 141,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 142,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 143,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 144,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 145,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 146,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 147,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 148,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 149,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 150,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 151,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 152,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 153,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 154,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 155,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 156,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 157,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 158,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 159,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 160,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      }
+    ]
+  },
+  "noise-90": {
+    "rollDegrees": 90,
+    "lag": 4,
+    "firstExactReturnIteration": 124,
+    "firstObservedCycleStart": 120,
+    "lastCheckedIteration": 160,
+    "seedGreen255Pixels": 39,
+    "greenPredictionMismatchesAcrossAllFrames": 0,
+    "lastChangeIterationAfterUndoingRotationRGB": [
+      95,
+      120,
+      64
+    ],
+    "rows": [
+      {
+        "iteration": 0,
+        "differentPixels": null,
+        "maxAbsChannelDifference": null
+      },
+      {
+        "iteration": 1,
+        "differentPixels": null,
+        "maxAbsChannelDifference": null
+      },
+      {
+        "iteration": 2,
+        "differentPixels": null,
+        "maxAbsChannelDifference": null
+      },
+      {
+        "iteration": 3,
+        "differentPixels": null,
+        "maxAbsChannelDifference": null
+      },
+      {
+        "iteration": 4,
+        "differentPixels": 6792,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 5,
+        "differentPixels": 6746,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 6,
+        "differentPixels": 6704,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 7,
+        "differentPixels": 6655,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 8,
+        "differentPixels": 6607,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 9,
+        "differentPixels": 6549,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 10,
+        "differentPixels": 6502,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 11,
+        "differentPixels": 6451,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 12,
+        "differentPixels": 6400,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 13,
+        "differentPixels": 6332,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 14,
+        "differentPixels": 6273,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 15,
+        "differentPixels": 6217,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 16,
+        "differentPixels": 6153,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 17,
+        "differentPixels": 6098,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 18,
+        "differentPixels": 6043,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 19,
+        "differentPixels": 5974,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 20,
+        "differentPixels": 5919,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 21,
+        "differentPixels": 5872,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 22,
+        "differentPixels": 5823,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 23,
+        "differentPixels": 5745,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 24,
+        "differentPixels": 5696,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 25,
+        "differentPixels": 5641,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 26,
+        "differentPixels": 5577,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 27,
+        "differentPixels": 5520,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 28,
+        "differentPixels": 5464,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 29,
+        "differentPixels": 5408,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 30,
+        "differentPixels": 5365,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 31,
+        "differentPixels": 5314,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 32,
+        "differentPixels": 5251,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 33,
+        "differentPixels": 5195,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 34,
+        "differentPixels": 5130,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 35,
+        "differentPixels": 5071,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 36,
+        "differentPixels": 5012,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 37,
+        "differentPixels": 4964,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 38,
+        "differentPixels": 4916,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 39,
+        "differentPixels": 4847,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 40,
+        "differentPixels": 4791,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 41,
+        "differentPixels": 4723,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 42,
+        "differentPixels": 4683,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 43,
+        "differentPixels": 4629,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 44,
+        "differentPixels": 4565,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 45,
+        "differentPixels": 4495,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 46,
+        "differentPixels": 4422,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 47,
+        "differentPixels": 4352,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 48,
+        "differentPixels": 4283,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 49,
+        "differentPixels": 4206,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 50,
+        "differentPixels": 4131,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 51,
+        "differentPixels": 4054,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 52,
+        "differentPixels": 3986,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 53,
+        "differentPixels": 3899,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 54,
+        "differentPixels": 3844,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 55,
+        "differentPixels": 3772,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 56,
+        "differentPixels": 3682,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 57,
+        "differentPixels": 3611,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 58,
+        "differentPixels": 3538,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 59,
+        "differentPixels": 3472,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 60,
+        "differentPixels": 3395,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 61,
+        "differentPixels": 3320,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 62,
+        "differentPixels": 3243,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 63,
+        "differentPixels": 3158,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 64,
+        "differentPixels": 3061,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 65,
+        "differentPixels": 2999,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 66,
+        "differentPixels": 2931,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 67,
+        "differentPixels": 2849,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 68,
+        "differentPixels": 2789,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 69,
+        "differentPixels": 2729,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 70,
+        "differentPixels": 2675,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 71,
+        "differentPixels": 2613,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 72,
+        "differentPixels": 2559,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 73,
+        "differentPixels": 2488,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 74,
+        "differentPixels": 2419,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 75,
+        "differentPixels": 2362,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 76,
+        "differentPixels": 2296,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 77,
+        "differentPixels": 2228,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 78,
+        "differentPixels": 2158,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 79,
+        "differentPixels": 2103,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 80,
+        "differentPixels": 2034,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 81,
+        "differentPixels": 1961,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 82,
+        "differentPixels": 1905,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 83,
+        "differentPixels": 1858,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 84,
+        "differentPixels": 1801,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 85,
+        "differentPixels": 1728,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 86,
+        "differentPixels": 1663,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 87,
+        "differentPixels": 1602,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 88,
+        "differentPixels": 1543,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 89,
+        "differentPixels": 1484,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 90,
+        "differentPixels": 1410,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 91,
+        "differentPixels": 1350,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 92,
+        "differentPixels": 1276,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 93,
+        "differentPixels": 1208,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 94,
+        "differentPixels": 1145,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 95,
+        "differentPixels": 1071,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 96,
+        "differentPixels": 1012,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 97,
+        "differentPixels": 973,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 98,
+        "differentPixels": 941,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 99,
+        "differentPixels": 902,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 100,
+        "differentPixels": 877,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 101,
+        "differentPixels": 840,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 102,
+        "differentPixels": 802,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 103,
+        "differentPixels": 761,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 104,
+        "differentPixels": 713,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 105,
+        "differentPixels": 678,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 106,
+        "differentPixels": 638,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 107,
+        "differentPixels": 609,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 108,
+        "differentPixels": 577,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 109,
+        "differentPixels": 538,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 110,
+        "differentPixels": 511,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 111,
+        "differentPixels": 471,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 112,
+        "differentPixels": 428,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 113,
+        "differentPixels": 397,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 114,
+        "differentPixels": 355,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 115,
+        "differentPixels": 317,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 116,
+        "differentPixels": 283,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 117,
+        "differentPixels": 250,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 118,
+        "differentPixels": 212,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 119,
+        "differentPixels": 176,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 120,
+        "differentPixels": 136,
+        "maxAbsChannelDifference": 4
+      },
+      {
+        "iteration": 121,
+        "differentPixels": 106,
+        "maxAbsChannelDifference": 3
+      },
+      {
+        "iteration": 122,
+        "differentPixels": 70,
+        "maxAbsChannelDifference": 2
+      },
+      {
+        "iteration": 123,
+        "differentPixels": 39,
+        "maxAbsChannelDifference": 1
+      },
+      {
+        "iteration": 124,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 125,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 126,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 127,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 128,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 129,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 130,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 131,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 132,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 133,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 134,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 135,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 136,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 137,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 138,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 139,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 140,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 141,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 142,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 143,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 144,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 145,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 146,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 147,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 148,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 149,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 150,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 151,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 152,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 153,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 154,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 155,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 156,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 157,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 158,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 159,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 160,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      }
+    ]
+  },
+  "markers-180": {
+    "rollDegrees": 180,
+    "lag": 2,
+    "firstExactReturnIteration": 2,
+    "firstObservedCycleStart": 0,
+    "lastCheckedIteration": 160,
+    "seedGreen255Pixels": 0,
+    "greenPredictionMismatchesAcrossAllFrames": 0,
+    "lastChangeIterationAfterUndoingRotationRGB": [
+      0,
+      0,
+      0
+    ],
+    "rows": [
+      {
+        "iteration": 0,
+        "differentPixels": null,
+        "maxAbsChannelDifference": null
+      },
+      {
+        "iteration": 1,
+        "differentPixels": null,
+        "maxAbsChannelDifference": null
+      },
+      {
+        "iteration": 2,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 3,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 4,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 5,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 6,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 7,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 8,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 9,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 10,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 11,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 12,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 13,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 14,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 15,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 16,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 17,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 18,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 19,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 20,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 21,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 22,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 23,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 24,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 25,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 26,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 27,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 28,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 29,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 30,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 31,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 32,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 33,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 34,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 35,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 36,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 37,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 38,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 39,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 40,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 41,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 42,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 43,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 44,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 45,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 46,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 47,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 48,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 49,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 50,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 51,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 52,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 53,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 54,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 55,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 56,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 57,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 58,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 59,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 60,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 61,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 62,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 63,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 64,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 65,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 66,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 67,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 68,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 69,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 70,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 71,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 72,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 73,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 74,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 75,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 76,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 77,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 78,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 79,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 80,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 81,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 82,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 83,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 84,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 85,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 86,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 87,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 88,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 89,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 90,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 91,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 92,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 93,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 94,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 95,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 96,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 97,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 98,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 99,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 100,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 101,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 102,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 103,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 104,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 105,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 106,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 107,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 108,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 109,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 110,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 111,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 112,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 113,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 114,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 115,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 116,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 117,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 118,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 119,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 120,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 121,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 122,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 123,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 124,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 125,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 126,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 127,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 128,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 129,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 130,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 131,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 132,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 133,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 134,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 135,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 136,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 137,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 138,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 139,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 140,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 141,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 142,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 143,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 144,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 145,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 146,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 147,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 148,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 149,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 150,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 151,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 152,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 153,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 154,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 155,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 156,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 157,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 158,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 159,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      },
+      {
+        "iteration": 160,
+        "differentPixels": 0,
+        "maxAbsChannelDifference": 0
+      }
+    ]
+  }
+}

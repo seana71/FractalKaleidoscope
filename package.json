@@ -1,0 +1,12 @@
+{
+  "name": "fractal-kaleidoscope-lab",
+  "private": true,
+  "scripts": {
+    "lab": "node tools/lab.cjs",
+    "test": "node tools/verify.cjs"
+  },
+  "devDependencies": {
+    "playwright-core": "1.62.1",
+    "pngjs": "7.0.0"
+  }
+}
